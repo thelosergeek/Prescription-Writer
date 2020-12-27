@@ -1,23 +1,24 @@
 # Prescription Writer
 About The Project
-Android app to help doctors write prescription and save them in a PDF form, which can later be sent to patients.
+Android app to help doctors write prescription and save them in a PDF form, which can later be sent to patients. 
 
 Tech stack of App:
-The app uses java as the native language and SQL database to store all the information.
+The app uses java as the native language and SQL database to store patients history information. It uses [Material Data Table library](https://github.com/salehyarahmadi/DataTable) to show prescription history in app.
 
-
-UI/UX of App:
-User Authentication : User Authentication using Firebase UI Auth. Users can login using facebook, google, github or
-their own email address which they used to register.
+[Download App](https://drive.google.com/drive/u/0/folders/1FGLctXqljXBiMcQmRqd5Yvh6T5uonUQT)
 
 
 
-<img src="https://i.postimg.cc/HkVSLgYM/Screenshot-from-2020-12-25-22-20-47.png" width="30%"></img> 
-<img src="https://i.postimg.cc/3RC1qrBs/Screenshot-from-2020-12-25-22-21-15.jpg" width="30%"></img> 
-<img src="https://i.postimg.cc/sgqTQNxN/Screenshot-from-2020-12-25-22-22-14.jpg" width="30%"></img> 
-<img src="https://i.postimg.cc/SspVVYWL/Screenshot-from-2020-12-25-22-22-23.jpg" width="30%"></img> 
-<img src="https://i.postimg.cc/DzGBqPby/Screenshot-from-2020-12-25-22-22-34.jpg" width="30%"></img> 
+Text Fields where doctors can enter the credentials | PDF is stored in App's Directory 
+------------ | -------------
+![](https://i.ibb.co/3yMd872/04.jpg) | ![](https://i.ibb.co/8r1z0Nh/03.jpg)
 
 
-Text Fields where doctors can enter the credentials (Fig1.) , Directory where the PDF is stored (Fig 3.) and a sample of PDF generted using the app(Fig. 4).
+Sample of PDF generted using the app | Prescription Issued History
+------------ | -------------
+![](https://i.ibb.co/g7XndKs/02.jpg) | ![](https://i.ibb.co/mvvBRKw/05.jpg)
 
+Demo of the App: 
+
+
+![](https://media.giphy.com/media/bfXxKnZ5Vhg0DtptNI/giphy.gif)
